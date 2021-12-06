@@ -13,6 +13,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.neighbors import KNeighborsClassifier
 
 st.title("Anime Optimization")
+st.markdown("https://github.com/GaryDLang/AnimeOptimization")
 st.markdown("Based on the anime.csv dataset: https://www.kaggle.com/CooperUnion/anime-recommendations-database")
 st.write("The goal of this data analysis is to find the optimal genre, format and length for yielding the highest audience approval and interaction.")
 ## Data Uploading and Cleaning
