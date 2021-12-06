@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+https://www.kaggle.com/CooperUnion/anime-recommendations-database
+
+https://www.geeksforgeeks.org/create-a-pandas-dataframe-from-lists/
+
+https://altair-viz.github.io/user_guide/customization.html
+
+https://github.com/altair-viz/altair/issues/2059
+
+https://altair-viz.github.io/user_guide/interactions.html
+
+https://pandas.pydata.org/pandas-docs/stable/user_guide/style.html#Styler-Functions
